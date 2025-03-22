@@ -47,7 +47,7 @@ export default function About() {
             <FaLinkedin />
           </a>
           <a
-            href="thomas41392@gmail.com"
+            href="mailto:thomas41392@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-500/50 hover:text-indigo-400 text-3xl"
