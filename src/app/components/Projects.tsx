@@ -67,7 +67,7 @@ export default function Projects() {
               <div className="bg-gray-800 p-6 rounded-lg shadow-md">
                 <h3 className="text-xl font-semibold mb-4">WeatherApp</h3>
                 <p className="text-gray-400 mb-4">
-                  A single-page application that shows current weather information based on the user's location.
+                  A single-page application that shows current weather information based on the user&apos;s location.
                 </p>
                 <div className="flex space-x-4 mb-4">
                   <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" width={30} height={30} />
